@@ -2,6 +2,6 @@
 
 Criação de um jogo(Pedra, Papel e Tesoura) em python
 
-Linguagem utilizada : Python
+Live code, disponibilizada na plataforma do projeto na Twitch
 
 
