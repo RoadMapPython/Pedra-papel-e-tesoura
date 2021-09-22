@@ -97,7 +97,7 @@ Em Python, conseguimos expressar a mesma ideia com as estruturas abaixo:
        print("Movimento Inválido") 
 
 
-#Jogo Completo 
+#Jogo Completo# 
 
 
 from random import randint
