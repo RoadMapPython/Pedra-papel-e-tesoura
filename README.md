@@ -22,9 +22,13 @@ from time import sleep     #Biblioteca responsável por fornecer pausas estraté
 
 
  //Iniciamos um Laço para realizar uma partida melhor de 3 
+ 
+ 
 for i in range(3):
     possibilidades=("Pedra","Papel","Tesoura")
-    //Realiza de maneira aleatória a escolha da máquina representadas por 0 e 1
+ 
+ 
+   //Realiza de maneira aleatória a escolha da máquina representadas por 0 e 1
     maquina = randint(0,2)
 
     print("<>"*15)
