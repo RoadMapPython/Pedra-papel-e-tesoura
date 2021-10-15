@@ -1,6 +1,8 @@
 # Primeira Live do Projeto RoadMap Python
 
-Criação de um jogo(Pedra, Papel e Tesoura) em python
+Criação de um jogo(Pedra, Papel e Tesoura) em python 
+
+###Vídeo aula no YouTube: https://youtu.be/ol3LQBA2hDk
 
 <h2>Faala Dev!!!</h2>
 
@@ -174,4 +176,4 @@ Referências :
 
 Curso em Video : https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
 
-Vídeo aula no YouTube: https://youtu.be/ol3LQBA2hDk
+
